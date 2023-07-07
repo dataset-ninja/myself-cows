@@ -6,4 +6,4 @@ Each image in the Myself Cows dataset has bounding box annotations. There are 2 
 
 Here are the visualized examples for each of the 1 classes:
 
-[Dataset classes](https://github.com/dataset-ninja/myself-cows/raw/main/visualizations/classes_preview.webm)
+[Dataset classes](https://github.com/dataset-ninja/myself-cows/raw/main/visualizations/horizontal_grid.webm)
